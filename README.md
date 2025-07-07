@@ -18,21 +18,6 @@ This project presents an end-to-end exploratory data analysis (EDA) of user prof
 
 ---
 
-## 📊 Dataset Overview
-
-- **Source**: Bumble User Profiles Dataset (NextLeap)
-- **Rows**: 59,946  
-- **Columns**: 17  
-- **Categorical**: 13 | **Numerical**: 3 (`age`, `height`, `income`) | **Datetime**: 1 (`last_online`)
-
-### Key Attributes:
-- **Demographics**: `age`, `gender`, `status`
-- **Lifestyle**: `diet`, `drinks`, `zodiac`, `body_type`
-- **Physical & Financial**: `height`, `income`, `education`
-- **Location & Activity**: `location`, `last_online`, `speaks`
-
----
-
 ## 🧹 Data Cleaning & Processing
 
 - Removed duplicates & handled missing values.
